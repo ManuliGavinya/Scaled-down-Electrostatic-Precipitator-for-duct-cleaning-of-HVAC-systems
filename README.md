@@ -13,6 +13,9 @@ This project involved the development of a comprehensive simulation model for an
 - **Robotic Arm Integration**: A robotic arm was incorporated for enhanced dust removal within the ducts.
 - **Dynamic Control**: The system dynamically controls the electrostatic charge and airflow to optimize performance in various HVAC environments.
 
+  ![Group Photo](Precipitator_Images/precipitator.jpg)
+  ![Group Photo](Precipitator_Images/Picture3.png)
+
 The ESP system is designed to improve indoor air quality by effectively capturing airborne particles, making it suitable for use in industrial, commercial, and residential HVAC systems.
 
 ## Key Contributions
